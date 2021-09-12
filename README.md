@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://responsive-edie-homepage.vercel.app">
+    <a href="https://responsive-portfolio-zeta.vercel.app">
       Demo
     </a>
     <span> | </span>
@@ -36,14 +36,8 @@
 
 ## Overview
 
-![screenshot](https://github.com/ChigorinDenis/responsive-edie-homepage/blob/main/src/img/screenshot.png)
+![screenshot](https://github.com/ChigorinDenis/responsive-portfolio/blob/main/src/img/screenshot.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ### Built With
 
